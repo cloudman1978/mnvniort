@@ -11,5 +11,6 @@ public class App
     {
         System.out.println( "Hello World!" );
   	System.out.println( "bonjour les petits loulous ! " );
+        System.out.println("Hello from the prophet !");
     }
 }
