@@ -17,7 +17,7 @@ public class App
 	System.out.println( "Je vais acheter le hoodie Moira dans la journée");
   	System.out.println( "bonjour les petits loulous ! " );
         System.out.println("Hello from the prophet !");
-	System.out.println("Coucou les amis");
+	System.out.println("Coucou ");
 >>>>>>> f0b879ac155b0ca6bc812b3a5946fce608ede8dd
     }
 }
