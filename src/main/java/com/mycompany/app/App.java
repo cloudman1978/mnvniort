@@ -16,6 +16,6 @@ public class App
 	System.out.println( "Je vais acheter le hoodie Moira dans la journée");
   	System.out.println( "bonjour les petits loulous ! " );
         System.out.println("Hello from the prophet !");
-
+	System.out.println("on fait une pause");
     }
 }
